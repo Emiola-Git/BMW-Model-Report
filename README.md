@@ -1,10 +1,9 @@
 
 # BMW-Model-Report
 
-![Image](https://github.com/user-attachments/assets/1dbab8b0-df20-4cc0-bda2-0d0a178ab817)
+<img width="1245" height="862" alt="Image" src="https://github.com/user-attachments/assets/1ededede-9275-48e3-8951-4c1bf1b398b2" />
 
-
-![Image](https://github.com/user-attachments/assets/eda13962-e0f8-46a1-9088-fac6fe078cd9)
+<img width="1237" height="859" alt="Image" src="https://github.com/user-attachments/assets/d034d889-6286-4534-9c0a-af16b81424ca" />
 
 
 [BMW_Sales_Data.csv](https://github.com/user-attachments/files/20014154/BMW_Sales_Data.csv)
